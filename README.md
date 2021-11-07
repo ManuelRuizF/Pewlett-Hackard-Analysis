@@ -7,7 +7,8 @@ Like said before the information was not on a single table. We needed the name, 
 
 ### Retirement titles
 - The first table we created was the retirement_titles table. Why? So we can get the employees "age in the company". As you can see in the following table:  
-- 
+![retirement_titles]
+
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 
