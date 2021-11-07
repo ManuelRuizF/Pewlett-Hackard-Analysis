@@ -10,7 +10,13 @@ Like said before the information was not on a single table. We needed the name, 
 ![retirement_titles](https://github.com/ManuelRuizF/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles_table.PNG)
 
 ### Unique Titles
--Oh no! There´s people that have been sooooo long that they appear more than once in the data, just with different titles. So what we did is that we sorted the data and created the unique table. Please consider the following table:  
+- Oh no! There´s people that have been sooooo long that they appear more than once in the data, just with different titles. So what we did is that we sorted the data and created the unique table. Please consider the following table:  
+![unique](https://github.com/ManuelRuizF/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles_table.PNG)
+
+### Retiring Titles
+- As a Data Scientist we don´t just only sort data, we analyze it. What can we infer from this information. We created the retiring titles table to learn more about the retiring employees and their roles. As you can see in the following tables, most of the retiring candidates have senior roles inside Pewlett Hackard. It seems that a lot of people will get a promotion!  
+- Please consider the following retiring titles table:
+- 
 
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
