@@ -7,7 +7,11 @@ Like said before the information was not on a single table. We needed the name, 
 
 ### Retirement titles
 - The first table we created was the retirement_titles table. Why? So we can get the employees "age in the company". As you can see in the following table:  
-![retirement_titles]
+![retirement_titles](https://github.com/ManuelRuizF/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles_table.PNG)
+
+### Unique Titles
+-Oh no! There´s people that have been sooooo long that they appear more than once in the data, just with different titles. So what we did is that we sorted the data and created the unique table. Please consider the following table:  
+
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
