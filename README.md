@@ -26,4 +26,7 @@ Like said before the information was not on a single table. We needed the name, 
 ## Summary
 We export every table created to csv files. To prior analyzing.
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- About ~55,000~
+- More than 50% of them company will be either in mentorship or is eligible to retire. So the company must hire.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Not enough, there are more people leaving that ones that can receive a mentorship. Pewlett Hackard must hire!
