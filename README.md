@@ -16,6 +16,10 @@ Like said before the information was not on a single table. We needed the name, 
 ### Retiring Titles
 - As a Data Scientist we don´t just only sort data, we analyze it. What can we infer from this information. We created the retiring titles table to learn more about the retiring employees and their roles. As you can see in the following tables, most of the retiring candidates have senior roles inside Pewlett Hackard. It seems that a lot of people will get a promotion!  
 - Please consider the following retiring titles table:
+- ![retiring_table](https://github.com/ManuelRuizF/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles_table.PNG)  
+
+### Mentorship Elegibility
+- As final table we have the mentorship elegibility table. Since there will be new vacant roles, we need to know who can have a mentorship before getting a better role. We filtered the people that are from the year 1965. Consider the following table:  
 - 
 
 
